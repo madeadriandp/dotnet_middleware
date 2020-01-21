@@ -1,0 +1,32 @@
+[1/20/2020 11:43:27 AM] HTTP GET localhost:5000/user/11 responded 200
+[1/20/2020 11:43:30 AM] HTTP GET localhost:5000/user responded 200
+[1/20/2020 11:43:33 AM] HTTP POST localhost:5000/user responded 200
+[1/20/2020 11:43:59 AM] HTTP GET localhost:5000/user/110 responded 200
+[1/20/2020 11:47:40 AM] HTTP GET localhost:5000/user responded 200 
+[1/20/2020 11:48:06 AM] HTTP GET localhost:5000/comment responded 200 
+[1/20/2020 11:48:27 AM] HTTP DELETE localhost:5000/user/15 responded 200 
+[1/20/2020 11:48:34 AM] HTTP PUT localhost:5000/user/14 responded 200 
+[1/20/2020 11:51:26 AM] HTTP PUT localhost:5000/user/14 responded 200 Microsoft.AspNetCore.Http.DefaultConnectionInfo
+[1/20/2020 11:58:58 AM] HTTP PUT localhost:5000/user/14 responded 200
+[1/20/2020 1:16:14 PM] HTTP GET localhost:5000/user/1111 responded 200
+[1/20/2020 1:17:04 PM] HTTP GET localhost:5000/user/1111 responded 200
+[1/20/2020 1:26:15 PM] HTTP GET localhost:5000/user/1111 responded 200
+[1/20/2020 1:28:42 PM] HTTP GET localhost:5000/user/1111 responded 200
+[1/20/2020 2:11:30 PM] HTTP GET localhost:5000/user/1111 responded 200
+[1/20/2020 2:11:31 PM] HTTP GET localhost:5000/user/1111 responded 404
+[1/20/2020 2:14:54 PM] REQUEST HTTP GET localhost:5000/user/1111 responded 200
+[1/20/2020 2:14:55 PM] RESPONSE HTTP GET localhost:5000/user/1111 responded 404
+[1/20/2020 2:39:54 PM] REQUEST HTTP GET 75501935.ngrok.io/user responded 200
+[1/20/2020 2:39:54 PM] RESPONSE HTTP GET 75501935.ngrok.io/user responded 200
+[1/20/2020 2:39:55 PM] REQUEST HTTP GET 75501935.ngrok.io/favicon.ico responded 200
+[1/20/2020 2:39:55 PM] RESPONSE HTTP GET 75501935.ngrok.io/favicon.ico responded 404
+[1/20/2020 2:44:10 PM] REQUEST HTTP GET 75501935.ngrok.io/user/2 responded 200
+[1/20/2020 2:44:10 PM] RESPONSE HTTP GET 75501935.ngrok.io/user/2 responded 404
+[2020-01-20T15:06:17.068+0700] REQUEST HTTP GET localhost:5000/user responded 200
+[1/20/2020 3:06:18 PM] RESPONSE HTTP GET localhost:5000/user responded 200
+[2020-01-20T15:09:27.078+0700] REQUEST HTTP GET localhost:5000/user responded 200
+[2020-01-20 15:09:28 GMT+07:00] RESPONSE HTTP GET localhost:5000/user responded 200
+[2020-01-20T15:14:27.531+0700] REQUEST HTTP GET localhost:5000/user responded 200
+[2020-01-20T15:14:28.512+07:00] RESPONSE HTTP GET localhost:5000/user responded 200
+[2020-01-20T15:15:28.304+0700] REQUEST HTTP GET localhost:5000/user responded 200
+[2020-01-20T15:15:29.300+0700] RESPONSE HTTP GET localhost:5000/user responded 200
